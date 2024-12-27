@@ -31,14 +31,14 @@ Aspiring Cybersecurity Analyst with a focus on detecting vulnerabilities, mitiga
 | Lab04                                         | Network Reconnaissance and ARP Spoofing using Ettercap. |
 
 ## Tools  
-### Network  
+### CyberSecurity
 <div>
     <img src="https://img.shields.io/badge/-NMAP-009639?&style=for-the-badge&logo=Nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-Burp_Suite-FF0000?&style=for-the-badge&logo=BurpSuite&logoColor=white" />
     <img src="https://img.shields.io/badge/-Kali_Linux-557C8E?&style=for-the-badge&logo=KaliLinux&logoColor=white" />
 </div>
 
-### Endpoint  
+### PenTesting
 <div>
     <img src="https://img.shields.io/badge/-Metasploit-FFFF00?&style=for-the-badge&logo=Metasploit&logoColor=black" />
     <img src="https://img.shields.io/badge/-John_the_Ripper-FF6600?&style=for-the-badge&logo=JohnTheRipper&logoColor=white" />
