@@ -30,13 +30,27 @@ Aspiring Cybersecurity Analyst with a focus on detecting vulnerabilities, mitiga
 | Lab03                                         | Honeypot Deployment Analysis: The Honeypot Experiment at CyberGuard Research Institute. |
 | Lab04                                         | Network Reconnaissance and ARP Spoofing using Ettercap. |
 
-## 🛠️ Tools
-| Category      | Tools                                                |
-|---------------|-----------------------------------------------------|
-| Network       | Wireshark                                           |
-| Vulnerability | Nmap, Burp Suite, Metasploit, John the Ripper       |
-| Automation    | Power Automate, SharePoint, Office365              |
-| Ticketing     | Salesforce, Remedy, ServiceNow                     |
+## Tools  
+### Network  
+<div>
+    <img src="https://img.shields.io/badge/-NMAP-009639?&style=for-the-badge&logo=Nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Burp_Suite-FF0000?&style=for-the-badge&logo=BurpSuite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali_Linux-557C8E?&style=for-the-badge&logo=KaliLinux&logoColor=white" />
+</div>
+
+### Endpoint  
+<div>
+    <img src="https://img.shields.io/badge/-Metasploit-FFFF00?&style=for-the-badge&logo=Metasploit&logoColor=black" />
+    <img src="https://img.shields.io/badge/-John_the_Ripper-FF6600?&style=for-the-badge&logo=JohnTheRipper&logoColor=white" />
+</div>
+
+
+### Ticketing  
+<div>
+    <img src="https://img.shields.io/badge/-Salesforce-00A1E4?&style=for-the-badge&logo=Salesforce&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Remedy-0045BB?&style=for-the-badge&logo=Remedy&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ServiceNow-3E82A0?&style=for-the-badge&logo=ServiceNow&logoColor=white" />
+</div>
 
 ## Professional Experience
 ### IT Support Engineer | Wipro Technologies
