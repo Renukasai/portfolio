@@ -6,7 +6,7 @@ I am an IT professional with a strong foundation in technical support and a pass
 ## Objective
 Aspiring Cybersecurity Analyst with a focus on detecting vulnerabilities, mitigating threats, and enhancing organizational security posture. Dedicated to leveraging my technical expertise and hands-on experience to safeguard digital assets.
 
-## 🌟 Skills
+## 🛠️ Skills
 | Skill                                         | Description                                       |
 |-----------------------------------------------|-------------------------------------------------|
 | Vulnerability Scanning and Exploit Detection  | Experienced in identifying system vulnerabilities and mitigating risks using tools like Nmap and Metasploit. |
@@ -14,7 +14,7 @@ Aspiring Cybersecurity Analyst with a focus on detecting vulnerabilities, mitiga
 | Incident Response Planning and Execution      | Skilled in identifying, containing, and mitigating security incidents effectively. |
 | Automation and Workflow Optimization          | Expertise in creating automated solutions using Power Automate and SharePoint. |
 
-## Projects
+## 🚀 Projects
 | Project                                          | Description                                                                 |
 |--------------------------------------------------|-----------------------------------------------------------------------------|
 | **Network Traffic Analysis and Penetration Testing Lab** | Conducted network traffic analysis, vulnerability assessments, and penetration testing utilizing Kali Linux and other security tools to identify and mitigate potential threats. |
@@ -32,7 +32,7 @@ Aspiring Cybersecurity Analyst with a focus on detecting vulnerabilities, mitiga
 | Lab03                                         | Honeypot Deployment Analysis: The Honeypot Experiment at CyberGuard Research Institute. |
 | Lab04                                         | Network Reconnaissance and ARP Spoofing using Ettercap. |
 
-## Tools  
+## 🔧Tools  
 ### CyberSecurity
 <div>
     <img src="https://img.shields.io/badge/-NMAP-009639?&style=for-the-badge&logo=Nmap&logoColor=white" />
@@ -54,7 +54,7 @@ Aspiring Cybersecurity Analyst with a focus on detecting vulnerabilities, mitiga
     <img src="https://img.shields.io/badge/-ServiceNow-3E82A0?&style=for-the-badge&logo=ServiceNow&logoColor=white" />
 </div>
 
-## Professional Experience
+## 🏆Professional Experience
 ### IT Support Engineer | Wipro Technologies
 - Delivered first-level IT support for clients, managing Active Directory, Office365, and Exchange.
 - Resolved help desk tickets efficiently and collaborated with service desk engineers.
