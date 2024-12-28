@@ -6,6 +6,25 @@ I am an IT professional with a strong foundation in technical support and a pass
 ## 🌟Objective
 Aspiring Cybersecurity Analyst with a focus on detecting vulnerabilities, mitigating threats, and enhancing organizational security posture. Dedicated to leveraging my technical expertise and hands-on experience to safeguard digital assets.
 
+## 🏆Professional Experience
+### IT Support Engineer | Wipro Technologies
+- Delivered first-level IT support for clients, managing Active Directory, Office365, and Exchange.
+- Resolved help desk tickets efficiently and collaborated with service desk engineers.
+- Conducted PC setups, re-imaging, and mobile device management with Intune.
+- Fixed vulnerabilities on Windows Servers by installing the latest patches.
+
+### Technical Support Specialist | Pernod Ricard Canada
+- Spearheaded the PC Refresh Project, re-imaging and configuring laptops.
+- Supported end-users with IT equipment and software troubleshooting.
+
+### Cybersecurity Analyst | BlackInnovations
+- Conducted vulnerability assessments and implemented security measures.
+- Utilized tools like Nmap, Metasploit, and Burp Suite to identify and mitigate risks.
+
+### Teaching Assistant | Sterling Labs
+- Guided participants through hands-on labs during a 4-month Cybersecurity Essentials Workshop:
+
+
 ## 🛠️ Skills
 | Skill                                         | Description                                       |
 |-----------------------------------------------|-------------------------------------------------|
@@ -53,24 +72,6 @@ Aspiring Cybersecurity Analyst with a focus on detecting vulnerabilities, mitiga
     <img src="https://img.shields.io/badge/-Remedy-0045BB?&style=for-the-badge&logo=Remedy&logoColor=white" />
     <img src="https://img.shields.io/badge/-ServiceNow-3E82A0?&style=for-the-badge&logo=ServiceNow&logoColor=white" />
 </div>
-
-## 🏆Professional Experience
-### IT Support Engineer | Wipro Technologies
-- Delivered first-level IT support for clients, managing Active Directory, Office365, and Exchange.
-- Resolved help desk tickets efficiently and collaborated with service desk engineers.
-- Conducted PC setups, re-imaging, and mobile device management with Intune.
-- Fixed vulnerabilities on Windows Servers by installing the latest patches.
-
-### Technical Support Specialist | Pernod Ricard Canada
-- Spearheaded the PC Refresh Project, re-imaging and configuring laptops.
-- Supported end-users with IT equipment and software troubleshooting.
-
-### Cybersecurity Analyst | BlackInnovations
-- Conducted vulnerability assessments and implemented security measures.
-- Utilized tools like Nmap, Metasploit, and Burp Suite to identify and mitigate risks.
-
-### Teaching Assistant | Sterling Labs
-- Guided participants through hands-on labs during a 4-month Cybersecurity Essentials Workshop:
 
 ## 🎓 Certifications
 <div>
