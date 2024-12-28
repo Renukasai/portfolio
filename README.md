@@ -14,13 +14,15 @@ Aspiring Cybersecurity Analyst with a focus on detecting vulnerabilities, mitiga
 | Incident Response Planning and Execution      | Skilled in identifying, containing, and mitigating security incidents effectively. |
 | Automation and Workflow Optimization          | Expertise in creating automated solutions using Power Automate and SharePoint. |
 
-## 🚀 Projects
-| Project                                        | Description                                     |
-|------------------------------------------------|-------------------------------------------------|
-| Web Vulnerability Scanner                     | Developed a Python script to detect SQL injection, XSS, and CSRF vulnerabilities. |
-| PortSwigger Labs                              | Completed all Web Cache Poisoning labs using Burp Suite Professional. |
-| Check-ins Appraisal System                    | Created an automated appraisal system using Power Automate and SharePoint at Wipro. |
-| PC Refresh Project                            | Re-imaged and configured laptops for Pernod Ricard Canada, ensuring seamless operations. |
+## Projects
+| Project                                          | Description                                                                 |
+|--------------------------------------------------|-----------------------------------------------------------------------------|
+| **Network Traffic Analysis and Penetration Testing Lab** | Conducted network traffic analysis, vulnerability assessments, and penetration testing utilizing Kali Linux and other security tools to identify and mitigate potential threats. |
+| **Web Vulnerability Scanner Development**        | Built a Python-based web vulnerability scanner capable of detecting SQL injection, XSS, and CSRF vulnerabilities. |
+| **PortSwigger Web Application Security Labs**    | Completed a series of labs on web application security using Burp Suite Professional, focusing on identifying and exploiting vulnerabilities. |
+| **Check-ins Appraisal System**                   | Designed and deployed an automated appraisal system using Power Automate, SharePoint, and PowerApps to streamline the performance review process at Wipro. |
+| **PC Refresh Project at Pernod Ricard**          | Managed the PC refresh process, including hardware and software upgrades, to ensure optimal system performance for end-users. |
+| **Windows Server Vulnerability Patching**        | Identified and fixed vulnerabilities in Windows Servers by applying the latest security patches, enhancing system security at Wipro. |
 
 ## 📚 Labs Assisted (Teaching Assistant, Cybersecurity Essentials Workshop at Sterling)
 | Lab ID                                         | Description                                     |
