@@ -1,9 +1,9 @@
-# Hello, I'm Sai Renuka Telu
+# Hello, I'm Sai Renuka Telu 👋
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am an IT professional with a strong foundation in technical support and a passion for cybersecurity. My diverse experience includes roles in IT support, cybersecurity analysis, and teaching, where I honed my skills in troubleshooting, vulnerability assessment, and secure system management.
 
-## Objective
+## 🌟Objective
 Aspiring Cybersecurity Analyst with a focus on detecting vulnerabilities, mitigating threats, and enhancing organizational security posture. Dedicated to leveraging my technical expertise and hands-on experience to safeguard digital assets.
 
 ## 🛠️ Skills
