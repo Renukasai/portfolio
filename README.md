@@ -42,6 +42,7 @@ Aspiring Cybersecurity Analyst with a focus on detecting vulnerabilities, mitiga
 | **Check-ins Appraisal System**                   | Designed and deployed an automated appraisal system using Power Automate, SharePoint, and PowerApps to streamline the performance review process at Wipro. |
 | **PC Refresh Project at Pernod Ricard**          | Managed the PC refresh process, including hardware and software upgrades, to ensure optimal system performance for end-users. |
 | **Windows Server Vulnerability Patching**        | Identified and fixed vulnerabilities in Windows Servers by applying the latest security patches, enhancing system security at Wipro. |
+| **Elastic SIEM Lab Setup**                       | Set up a Security Information and Event Management (SIEM) system using Elastic Stack to monitor, detect, and respond to security threats, integrating log data from various sources and generating real-time alerts. |security at Wipro. |
 
 ## 📚 Labs Assisted (Teaching Assistant, Cybersecurity Essentials Workshop at Sterling)
 | Lab ID                                         | Description                                     |
