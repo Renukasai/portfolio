@@ -36,7 +36,8 @@ Aspiring Cybersecurity Analyst with a focus on detecting vulnerabilities, mitiga
 ## 🚀 Projects
 | Project                                          | Description                                                                 |
 |--------------------------------------------------|-----------------------------------------------------------------------------|
-| **Network Traffic Analysis and Penetration Testing Lab** | Conducted network traffic analysis, vulnerability assessments, and penetration testing utilizing Kali Linux and other security tools to identify and mitigate potential threats. |
+| **Network Traffic Analysis and Penetration Testing Lab** | Conducted comprehensive network traffic analysis using Wireshark to monitor and identify patterns in live network data. |
+| **Vulnerability Scanning on Metasploitable**        | •	Performed in-depth vulnerability assessments on the Metasploitable 2 virtual machine to identify and evaluate security vulnerabilities. |
 | **Web Vulnerability Scanner Development**        | Built a Python-based web vulnerability scanner capable of detecting SQL injection, XSS, and CSRF vulnerabilities. |
 | **PortSwigger Web Application Security Labs**    | Completed a series of labs on web application security using Burp Suite Professional, focusing on identifying and exploiting vulnerabilities. |
 | **Windows Server Vulnerability Patching**        | Identified and fixed vulnerabilities in Windows Servers by applying the latest security patches, enhancing system security at Wipro. |
