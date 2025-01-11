@@ -37,6 +37,7 @@ Aspiring Cybersecurity Analyst with a focus on detecting vulnerabilities, mitiga
 | Project                                          | Description                                                                 |
 |--------------------------------------------------|-----------------------------------------------------------------------------|
 | **Network Traffic Analysis and Penetration Testing Lab** | Conducted comprehensive network traffic analysis using Wireshark to monitor and identify patterns in live network data. |
+| **Active Directory Management Project** | Configured and managed Active Directory, including domain setup, DHCP, RAS/NAT, user account creation via PowerShell, and domain connectivity validation for client machines. |
 | **Vulnerability Scanning and Remediation Using Nessus**  | Conducted a vulnerability assessment on a Windows 10 virtual machine using **Nessus**. Identified critical vulnerabilities, including outdated software and misconfigurations. Applied software updates and security hardening to address identified vulnerabilities. |
 | **Vulnerability Scanning on Metasploitable**        | Performed in-depth vulnerability assessments on the Metasploitable 2 virtual machine to identify and evaluate security vulnerabilities. |
 | **Web Vulnerability Scanner Development**        | Built a Python-based web vulnerability scanner capable of detecting SQL injection, XSS, and CSRF vulnerabilities. |
