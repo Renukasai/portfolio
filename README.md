@@ -7,22 +7,32 @@ I am an IT professional with a strong foundation in technical support and a pass
 Aspiring Cybersecurity Analyst with a focus on detecting vulnerabilities, mitigating threats, and enhancing organizational security posture. Dedicated to leveraging my technical expertise and hands-on experience to safeguard digital assets.
 
 ## 🏆Professional Experience
-### IT Support Engineer | Wipro Technologies
-- Delivered first-level IT support for clients, managing Active Directory, Office365, and Exchange.
-- Resolved help desk tickets efficiently and collaborated with service desk engineers.
-- Conducted PC setups, re-imaging, and mobile device management with Intune.
-- Fixed vulnerabilities on Windows Servers by installing the latest patches.
+### Technical Customer Support Representative | Accenture | St. Catharines, ON
+- Provided enterprise support for complex software and API issues, leveraging Datadog and Splunk for diagnostics and troubleshooting.
+- Assisted in SSO, authentication flows, and API rate limiting, collaborating with engineering, QA, and security teams.
+- Maintained internal documentation and knowledge base articles to streamline support processes and ensure consistent solutions.
+  
+### Associate Technology | Sutherlands | Remote
+- Delivered technical support to clients, documenting cases and monitoring trends to escalate critical incidents for timely resolution.
+- Assisted in troubleshooting and guided clients on platform usage to improve workflow efficiency.
 
-### Technical Support Specialist | Pernod Ricard Canada
-- Spearheaded the PC Refresh Project, re-imaging and configuring laptops.
-- Supported end-users with IT equipment and software troubleshooting.
+ ### IT Technical Coop | Pernod Ricard | Windsor, ON
+ - Upgraded, re-imaged, and configured Lenovo and HP laptops, ensuring synchronization with Intune.
+ - Managed iPhone upgrades and verified device assignments in CMDB for accurate asset tracking.
+ - Administered security groups in ADMP and Azure and optimized printer performance using Uniflow.
+
+### IT Technical Support | Wipro Technologies | Telangana, India
+- Delivered Tier 1 and Tier 2 support to 500+ users across Windows, Linux, networking, and hardware environments.
+- Configured and deployed iOS/Android devices via Intune MDM and managed Office 365/SharePoint administration.
+- Maintained IT infrastructure including Windows Server, Active Directory, Azure AD, Exchange, Intune, and MFA; documented processes and solutions for knowledge sharing.
 
 ### Cybersecurity Analyst | BlackInnovations
-- Conducted vulnerability assessments and implemented security measures.
-- Utilized tools like Nmap, Metasploit, and Burp Suite to identify and mitigate risks.
+- Conducted vulnerability assessments and implemented security measures to safeguard organizational assets.
+- Utilized tools like Nmap, Metasploit, Burp Suite, and Wireshark for network analysis, penetration testing, and risk mitigation.
 
 ### Teaching Assistant | Sterling Labs
-- Guided participants through hands-on labs during a 4-month Cybersecurity Essentials Workshop:
+- Guided participants in hands-on labs during a 4-month Cybersecurity Essentials Workshop.
+- Supported learners in understanding cybersecurity concepts, including network security, endpoint protection, and vulnerability management.
 
 
 ## 🛠️ Skills
